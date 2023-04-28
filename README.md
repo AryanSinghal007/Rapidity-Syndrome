@@ -1,4 +1,3 @@
-# Rapidity Syndrome
 # 1.INTRODUCTION
 
 <img src = "https://user-images.githubusercontent.com/130309685/235085733-75513c2c-ee0b-4da0-a459-922b19784baf.png" width = 500 height = 300> 
